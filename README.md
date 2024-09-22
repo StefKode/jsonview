@@ -1,6 +1,7 @@
 # jsonview
 Example Python Program to display json in a QTreeView
-[jsontree.py](jasontree.py)
+
+[jsontree.py](https://github.com/StefKode/jsonview/blob/main/jsontree.py)
 
 Features that are evaluated:
 * Qt6 QTreeView and data model
